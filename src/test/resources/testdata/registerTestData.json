@@ -1,0 +1,77 @@
+{
+  "validRegistration": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "email": "user.valid@example.com",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "successMessage": "Your registration completed"
+  },
+  "emailAlreadyExists": {
+    "firstName": "UserFirstName",
+    "lastName": "USerLastName",
+    "email": "user.valid@example.com",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "existsEmailErrorMessage": "The specified email already exists"
+  },
+  "missingAllMandatory": {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "password": "",
+    "confirmPassword": "",
+    "firstNameErrorMessage": "First name is required.",
+    "lastNameErrorMessage": "Last name is required.",
+    "emailErrorMessage": "Email is required.",
+    "confirmPasswordErrorMessage": "Password is required."
+  },
+  "missingFirstName": {
+    "firstName": "",
+    "lastName": "UserLastName",
+    "email": "missing.firstname@example.com",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "firstNameErrorMessage": "First name is required."
+  },
+  "missingLastName": {
+    "firstName": "UserFirstName",
+    "lastName": "",
+    "email": "missing.lastname@example.com",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "lastNameErrorMessage": "Last name is required."
+  },
+  "missingEmail": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "email": "",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "missingEmailErrorMessage": "Email is required."
+  },
+  "invalidEmailFormat": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "email": "invalid-email-format",
+    "password": "Test@1234",
+    "confirmPassword": "Test@1234",
+    "emailFormatErrorMessage": "Please enter a valid email address."
+  },
+  "invalidPasswordFormat": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "email": "wrong.password.format@example.com",
+    "password": "a123",
+    "confirmPassword": "a123",
+    "passwordFormatErrorMessage": "Password must meet the following rules: must have at least 6 characters and not greater than 64 characters"
+  },
+  "confirmPasswordMismatch": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "email": "mismatch.password@example.com",
+    "password": "Test@1234",
+    "confirmPassword": "Different@1234",
+    "confirmPasswordErrorMessage": "The password and confirmation password do not match."
+  }
+}

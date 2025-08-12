@@ -1,0 +1,12 @@
+{
+  "barNotificationText": {
+    "noProductsSelected": "No products selected to add to cart."
+  },
+  "productsText": {
+    "computer": "Build your own computer",
+    "appleMackBook": "Apple MacBook Pro",
+    "smartPhoneHTC": "HTC smartphone",
+    "virtualGiftCard": "$25 Virtual Gift Card"
+  },
+  "cartPageURL": "http://nop.local:8080/cart"
+}

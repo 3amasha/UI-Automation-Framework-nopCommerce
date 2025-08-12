@@ -1,0 +1,41 @@
+{
+  "homePageURL": "http://nop.local:8080/",
+  "billingAddress": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "user.valid@example.com",
+    "company": "Test Company",
+    "country": "Egypt",
+    "stateProvince": "Cairo",
+    "city": "Cairo",
+    "address1": "123 Main St",
+    "address2": "Apt 4B",
+    "zipPostalCode": "12345",
+    "phoneNumber": "1234567890",
+    "faxNumber": "0987654321"
+  },
+  "creditCardInfo": {
+    "creditCardType": "Visa",
+    "cardholderName": "John Doe",
+    "cardNumber": "4111111111111111",
+    "expirationMonth": "12",
+    "expirationYear": "2026",
+    "cardCode": "123"
+  },
+  "completeOrder": {
+    "successMessage": "Your order has been successfully processed!",
+    "completeOrderURL": "http://nop.local:8080/checkout/completed"
+  },
+  "alertValidationMessages": {
+    "firstNameValidationMsg": "First name is required",
+    "lastNameValidationMsg": "Last name is required",
+    "emailValidationMsg": "Email is required",
+    "wrongEmailValidationMsg": "Wrong email",
+    "countryValidationMsg": "Country is required",
+    "stateProvinceValidationMsg": "State / province is required",
+    "cityValidationMsg": "City is required",
+    "address1ValidationMsg": "Street address is required",
+    "zipPostalCodeValidationMsg": "Zip / postal code is required",
+    "phoneNumberValidationMsg": "Phone is required"
+  }
+}

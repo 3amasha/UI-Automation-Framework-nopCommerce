@@ -1,0 +1,42 @@
+{
+  "productsTextName": {
+    "computer": "Build your own computer",
+    "computerPdpURL": "http://nop.local:8080/build-your-own-computer",
+    "appleMacBook": "Apple MacBook Pro",
+    "applePdpURL": "http://nop.local:8080/apple-macbook-pro",
+    "smartPhoneHTC": "HTC smartphone",
+    "htcPdpURL": "http://nop.local:8080/htc-smartphone",
+    "virtualGiftCard": "$25 Virtual Gift Card",
+    "giftCardPdpURL": "http://nop.local:8080/25-virtual-gift-card",
+    "nokiaLumia": "Nokia Lumia 1020"
+  },
+  "buildYourOwnComputer": {
+    "processor": [
+      "2.2 GHz Intel Pentium Dual-Core E2200",
+      "2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]"
+    ],
+    "ram": [
+      "2 GB",
+      "4GB [+$20.00]",
+      "8GB [+$60.00]"
+    ]
+  },
+  "emailFriend": {
+    "pageURL": "http://nop.local:8080/productemailafriend"
+  },
+  "virtualGiftCard": {
+    "recipientName": "Recipient Name",
+    "recipientEmail": "recipientEmail@gmail.com",
+    "senderName": "Sender Name",
+    "senderEmail": "senderEmail@gmail.com",
+    "message": "This is a gift card message"
+  },
+  "barNotificationText": [
+    "Please select Processor",
+    "Please select RAM",
+    "Please select HDD",
+    "The product has been added to your shopping cart",
+    "The product has been added to your wishlist",
+    "The product has been added to your product comparison"
+  ]
+}

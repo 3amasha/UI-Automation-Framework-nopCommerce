@@ -1,0 +1,42 @@
+# Maven build output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Allure
+/allure-results/
+/allure-report/
+/reports/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# OS
+.DS_Store
+Thumbs.db
