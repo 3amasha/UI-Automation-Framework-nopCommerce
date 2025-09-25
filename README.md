@@ -6,7 +6,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![TestNG](https://img.shields.io/badge/TestNG-Testing%20Framework-brightgreen)
 ![Allure](https://img.shields.io/badge/Allure-Reporting-purple)
-![RestAssured](https://img.shields.io/badge/RestAssured-API%20Testing-red)
+
 
 > **Purpose:**
 > A **full-stack test automation framework** designed to automate **UI testing** and **data-driven testing** for modern e-commerce applications, featuring **clean architecture**, **scalability**, and **reusability**.
